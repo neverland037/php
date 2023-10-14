@@ -1,0 +1,45 @@
+body {
+    font-family: tahoma;
+    font-size: 14px;
+
+    background: #4b6cb7;
+    background: -webkit-linear-gradient(to right, #182848, #4b6cb7);
+    background: linear-gradient(to right, #182848, #4b6cb7);
+}
+
+#centrado {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+#fila {
+    font-size: 13px;
+    background: #b9c9fe;
+    color: #039;
+}
+
+#error {
+    color: red;
+    font-size: 12px;
+}
+
+td {
+    border: solid 1px #006699;
+    border-top: #006699;
+    border-right: #006699;
+    border-left: #006699;
+    border-bottom: #006699;
+}
+
+#codigo {
+    color: blue;
+    font-size: 36px;
+}
